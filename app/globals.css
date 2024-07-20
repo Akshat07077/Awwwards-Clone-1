@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::selection{
+    color: burlywood;
+}
+.btn:hover{
+    background-color: burlywood;
+}
