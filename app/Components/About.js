@@ -22,7 +22,7 @@ const About = () => {
           <div className='w-2 h-2 rounded-full bg-white'></div>
           </button>
         </div>
-        <div className=' h-[60vh] w-1/2 rounded-2xl bg-slate-400'> </div>
+        <div className='bg-[url("https://ochi.design/wp-content/uploads/2022/05/Homepage-Photo-663x469.jpg")] h-[60vh] w-1/2 rounded-2xl bg-slate-400'> </div>
       </div>
     </div>
   )
