@@ -7,8 +7,11 @@ import About from './Components/About'
 import { Eyes } from './Components/Eyes'
 import Featured from './Components/Featured'
 import Cards from './Components/Cards'
+import LocomotiveScroll from 'locomotive-scroll';
 
 const page = () => {
+  const locomotiveScroll = new LocomotiveScroll();
+
   return (
     <>
     <div className='w-full min-h-screen bg-zinc-800'>
