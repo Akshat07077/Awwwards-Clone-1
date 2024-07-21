@@ -10,11 +10,11 @@ import Cards from './Components/Cards'
 import LocomotiveScroll from 'locomotive-scroll';
 
 const Page = () => {
-  useEffect(() => {
-    if (typeof window !== 'undefined') {
-      const locomotiveScroll = new LocomotiveScroll();
-    }
-  }, []);
+  // useEffect(() => {
+  //   if (typeof window !== 'undefined') {
+  //     const locomotiveScroll = new LocomotiveScroll();
+  //   }
+  // }, []);
 
   return (
     <div className='w-full min-h-screen bg-zinc-800'>
