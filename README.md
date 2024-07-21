@@ -36,3 +36,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 This project is a clone of the awwwards-winning website ochi.designs created to showcase my React.js skills. This clone is made for educational purposes only. All copyrights and trademarks are the property of their respective owners.
+"# Awwwards-Web-clone1" 
